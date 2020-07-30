@@ -1,0 +1,32 @@
+body {
+	background-color: white;
+    font-family: 'Comfortaa', cursive;
+}
+
+/*font-family: 'Dancing Script', cursive;*/
+
+div ul li a:hover {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.col-lg-12 {
+	margin-bottom: 25px;
+	border-radius: 25px;
+}
+
+div ul li {
+	margin-bottom: 6px;
+}
+
+h1 {
+	color: black;
+}
+
+h4 {
+	margin-top: 15px;
+}
+
+.navbar-brand a:hover {
+	text-decoration: none;
+}
